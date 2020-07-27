@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './style.css';
 
 const drumPads = [{
@@ -141,7 +140,7 @@ class App extends React.Component {
         {/* TITLE */}
         <div id="header">
           <h1>BEATS DRUM</h1>
-          <h3>by <a href="https://codepen.io/skaisahni" target="_blank"> skaisahni</a></h3>
+          <h3>by <a href="https://codepen.io/skaisahni" > skaisahni</a></h3>
         </div>
 
         {/* DISPLAY */}
