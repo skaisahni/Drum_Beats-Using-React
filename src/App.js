@@ -139,7 +139,7 @@ class App extends React.Component {
       <div id="drum-machine">
         {/* TITLE */}
         <div id="header">
-          <h1>BEATS DRUM</h1>
+          <h1>Rock N Roll</h1>
           <h3>by <a href="https://codepen.io/skaisahni" > skaisahni</a></h3>
         </div>
 
